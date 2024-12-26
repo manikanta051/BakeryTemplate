@@ -54,4 +54,4 @@ jobs:
           app-name: 'naniweb'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C919FBA08EF44B4CB431B4608CB34666 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8582F0CEF2564C6FA055D5CC48537169 }}
